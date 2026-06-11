@@ -20,7 +20,7 @@
 - 搖晃喚醒
 
 ### Demo 影片
-[![Watch the video](docs/demo.png)](docs/demo.mp4)
+[![Watch the video](docs/demo.png)](https://github.com/user-attachments/assets/ba702a4a-f34d-4873-8039-db3c630fdee1)
 
 
 ---
