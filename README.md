@@ -22,6 +22,8 @@
 ### Demo 影片
 [![Watch the video](docs/demo.png)](https://youtube.com/shorts/q7nXPgFeaX4?feature=share)
 
+[![Watch the video](docs/demo.png)](https://github.com/user-attachments/assets/6a51a80b-9dd8-4f96-9825-43806c44d266)
+
 ---
 
 ## 🔧 硬體製作
