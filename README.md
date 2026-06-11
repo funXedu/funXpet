@@ -7,7 +7,7 @@
   <br/>
 </p>
 
-# funXtoy - 互動玩具
+# funXpet - 互動寵物玩具
 基於[`小智聊天機器人`](https://github.com/78/xiaozhi-esp32)，低成本、DIY（自己動手做）的互動玩具項目，專為教育用途設計。
 
 ---
@@ -192,7 +192,7 @@
 ## 📊 文件結構
 
 ```
-funXtoy/
+funXpet/
 ├── firmware.bin              # 韌體檔
 └── README.md                 # 本文檔
 ```
