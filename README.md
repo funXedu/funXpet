@@ -22,7 +22,8 @@
 ### Demo 影片
 [![Watch the video](docs/demo.png)](https://github.com/user-attachments/assets/676229f4-a447-436a-a527-c47f4451174c)
 
-點選觀看[`YouTube短片`](https://youtube.com/shorts/q7nXPgFeaX4)
+- 點選觀看[`YouTube短片`](https://youtube.com/shorts/q7nXPgFeaX4)
+
 ---
 
 ## 🔧 硬體製作
