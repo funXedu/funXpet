@@ -20,8 +20,7 @@
 - 搖晃喚醒
 
 ### Demo 影片
-<video src="docs/demo.mp4" width="50%" controls="controls" >
-</video>
+[![Watch the video](docs/demo.png)](docs/demo.mp4)
 
 
 ---
